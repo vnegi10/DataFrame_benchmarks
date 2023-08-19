@@ -1,6 +1,6 @@
 ## DataFrame benchmarks
 
-This repository contains Jupyter notebooks and associated data. They are
+This repository contains Jupyter notebooks which are
 used to execute and compare DataFrame benchmarks between
 [Pandas](https://pandas.pydata.org/), [Polars](https://github.com/pola-rs/polars)
 and [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) packages.
@@ -24,3 +24,6 @@ data for only a selected number of days.
 
 - Steam games recommendation data has been obtained from kaggle. More information
 is available [here.](https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam?select=recommendations.csv)
+
+- Rotten Tomatoes movies review data has been obtained from kaggle. More information
+can be found [here.](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_critic_reviews.csv)
