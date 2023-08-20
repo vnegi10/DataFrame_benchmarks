@@ -8,11 +8,11 @@ and [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) packages.
 ## Versions
 
 - Python 3.10.6
-    - Polars 0.17.2
-    - Pandas 2.0.0
+    - Polars 0.18.15
+    - Pandas 2.0.3
 
-- Julia 1.8.5
-    - DataFrames.jl 1.5.0
+- Julia 1.9.2
+    - DataFrames.jl 1.6.1
 
 ## Data source
 
